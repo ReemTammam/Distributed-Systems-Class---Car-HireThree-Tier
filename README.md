@@ -2,7 +2,7 @@
 This repository contains my assignment for designing a three-tier distributed solution.
 
 ## Contents
-- `CarHire_ThreeTier.pdf`: Main report with hand-drawn diagram, explanation, benefits, drawbacks, and distributed principles.
+- `car_hire_three_tier.pdf`: Main report with hand-drawn diagram, explanation, benefits, drawbacks, and distributed principles.
 
 ## Overview
 The solution follows a three-tier architecture:
